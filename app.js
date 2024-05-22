@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 
 class Title extends React.Component {
   render() {
-    return (<h1 className="">{this.props.label}</h1>)
+    return (<h1 className=""> 🤔 {this.props.label} this is h1 tag</h1>)
   }
 }
 
